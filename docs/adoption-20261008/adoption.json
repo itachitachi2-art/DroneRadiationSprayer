@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0.1 display-fix1",
+  "adopted_on": "2026-10-08",
+  "source": "user-supplied candidate, existing files absent from candidate retained in Git base tree",
+  "user_in_game_verified": true,
+  "verification_source": "User statement in this task; older supplied reports predate this game validation",
+  "current_session_game_executed": false,
+  "current_session_build": "PASS against supplied actual v3.3 Managed/Harmony",
+  "known_issue": null,
+  "main_merge": false,
+  "release_published": false,
+  "excluded": "No game Managed/Harmony reference binaries or compiler binaries are distributed",
+  "shipping_dll_sha256": "4d2da710330e7d2c3fc7784127713a2f5da9da4367df26297e4caa0f02a55f9f"
+}

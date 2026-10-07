@@ -1,0 +1,117 @@
+DroneRadiationSprayer CONTROLLED HARNESS
+Production sources compiled unchanged into this executable; game and Unity types are controlled doubles.
+Real Harmony assembly: 0Harmony, Version=2.13.0.0, Culture=neutral, PublicKeyToken=null
+Real Harmony location: /workspace/scratch/eae5f5b339d7/references/harmony/0_TFP_Harmony/0Harmony.dll
+UTC run: 2026-10-07T22:40:04.8881950Z
+NOT an in-game, Unity, save/load, F10 integration, or network replication test.
+
+PASS geometry/origin
+PASS geometry/exact +X 25m boundary
+PASS geometry/+X 0.001m inside
+PASS geometry/+X 0.001m outside
+PASS geometry/exact -X 25m boundary
+PASS geometry/negative coordinates boundary
+PASS geometry/negative coordinates outside
+PASS geometry/vertical +Y boundary
+PASS geometry/vertical -Y boundary
+PASS geometry/vertical outside
+PASS geometry/+Z boundary
+PASS geometry/3-4-5 diagonal boundary
+PASS geometry/full sphere diagonal inside
+PASS geometry/box corner excluded
+PASS geometry/horizontal corner excluded
+PASS geometry/NaN position excluded
+PASS geometry/infinite position excluded
+PASS attachment/installed exact native buff arguments
+PASS attachment/sparse slots and null ItemClass
+PASS attachment/null OriginalItemValue
+PASS attachment/empty modification slots
+PASS attachment/all null slots
+PASS attachment/null ItemClass ignored
+PASS attachment/different attachment ignored
+PASS attachment/name match is exact
+PASS attachment/cargo does not activate and is never read
+PASS attachment/removal stops subsequent pulse
+PASS attachment/reinstallation resumes at next pulse
+PASS attachment/another drone cannot activate unequipped drone
+PASS authority/client remote world excluded
+PASS authority/server accepts remotely owned drone
+PASS owner/multiplayer EntityPlayer owner accepted
+PASS owner/null owner
+PASS owner/non-player owner
+PASS owner/dead owner
+PASS owner/different world
+PASS owner/null world
+PASS owner/despawned
+PASS owner/marked for unload
+PASS owner/unloaded
+PASS owner/disconnected not in world membership
+PASS owner/reused entity id not owner instance
+PASS drone/null
+PASS drone/null world
+PASS drone/dead
+PASS drone/despawned
+PASS drone/marked for unload
+PASS drone/unloaded
+PASS drone/shutdown flag
+PASS drone/shutdown pending
+PASS drone/pickup in progress
+PASS drone/shutdown state
+PASS drone/NoClip transition state
+PASS drone/Teleport transition state
+PASS drone/None invalid state
+PASS drone/unknown state
+PASS drone/active state Idle
+PASS drone/active state Sentry
+PASS drone/active state Follow
+PASS drone/active state Heal
+PASS drone/active state Attack
+PASS drone/Health 0
+PASS drone/Health 1
+PASS drone/Health 2 conservative F10 guard
+PASS drone/Health 3 resumes
+PASS drone/not deployed in world membership
+PASS drone/reused entity id not deployed instance
+PASS drone/deployed membership restored resumes
+PASS target/dead zombie
+PASS target/despawned zombie
+PASS target/marked for unload zombie
+PASS target/unloaded zombie
+PASS target/different world zombie
+PASS target/null buffs
+PASS target/ordinary zombie lacks eligibility tags
+PASS target/feral alone not eligible
+PASS target/eligible radiated
+PASS target/eligible charged
+PASS target/eligible infernal
+PASS target/combined eligible tags produce one call
+PASS target/non-zombie player animal vulture null excluded
+PASS target/radiated non-zombie excluded: EntityPlayer
+PASS target/radiated non-zombie excluded: EntityAnimal
+PASS target/radiated non-zombie excluded: EntityVulture
+PASS target/radiated non-zombie excluded: EntityAlive
+PASS target/sleeping zombie stays asleep without damage or AI calls
+PASS query/explicit zombie flags and 25m center
+PASS cadence/query limit once per second including boundary
+PASS cadence/two drones deduplicate once per target per second
+PASS cadence/duplicate broad-phase entries deduplicate
+PASS cadence/100 pulses do not grow shared duration or stack
+PASS cadence/removal does not refresh existing timed inhibitor
+PASS cadence/backward clock resets drone and target cooldown
+PASS cadence/non-finite times ignored
+PASS state/reused target id does not inherit cooldown
+PASS state/reused drone id does not inherit cooldown
+PASS state/Reset clears cooldowns
+PASS cleanup/candidate list cleared after successful pulse
+PASS cleanup/query throws after candidate append
+PASS cleanup/AddBuff throws
+PASS cleanup/third-party tag predicate throws
+PASS cleanup/world unload nulls world during query
+PASS cleanup/world lookup throws without breaking caller
+PASS cleanup/unload after pulse leaves no strong candidate refs
+PASS diagnostics/repeated failures rate limited to 30 seconds
+PASS harmony/real PatchAll registers production postfix and preserves original
+
+RESULT: 106 passed; 0 failed; 106 total controlled cases.
+Global BuffClass duration stayed 15f in every passing case.
+Native Unity timing, multiplayer replication, actual buff XML execution, F10 third-party integration, and in-game behavior remain UNTESTED.

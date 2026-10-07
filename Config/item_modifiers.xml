@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+  <append xpath="/item_modifiers">
+    <item_modifier name="modDroneRadiationSprayer" installable_tags="drone" modifier_tags="droneRadiationSprayer" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modDroneRadiationSprayer" />
+      <property name="DescriptionKey" value="modDroneRadiationSprayerDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+    </item_modifier>
+  </append>
+</configs>

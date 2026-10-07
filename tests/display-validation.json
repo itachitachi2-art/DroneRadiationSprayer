@@ -1,0 +1,40 @@
+{
+  "revision": "0.1.0.1-display-fix1",
+  "core_dll_version": "0.1.0.1",
+  "game_executed": false,
+  "recompiled": false,
+  "core_tests_rerun": false,
+  "checks": [
+    "CSV filename matches v3.3 loader",
+    "Obsolete TXT is absent",
+    "Exact native 20-column header",
+    "KeepLoaded metadata column present",
+    "All rows have complete column alignment",
+    "Exact name and description keys",
+    "English display name",
+    "Japanese display name",
+    "Both descriptions present",
+    "english survives native-style column mapping",
+    "japanese survives native-style column mapping",
+    "Internal item identity preserved",
+    "DescriptionKey preserved",
+    "No unused LocalizationKey override",
+    "CustomIcon matches own sprite name",
+    "PNG RGBA 160x160",
+    "Real transparency and opaque content",
+    "Transparent padded corners",
+    "Accepted core bytes unchanged: DroneRadiationSprayer.dll",
+    "Accepted core bytes unchanged: Scripts/DroneRadiationSprayerMod.cs",
+    "Accepted core bytes unchanged: Scripts/SprayerController.cs"
+  ],
+  "passed": 21,
+  "failed": 0,
+  "sha256": {
+    "DroneRadiationSprayer.dll": "4d2da710330e7d2c3fc7784127713a2f5da9da4367df26297e4caa0f02a55f9f",
+    "Scripts/DroneRadiationSprayerMod.cs": "d7751450353e576e9b4fb71cb2891a671c0de53dfd611bf730029dd5d58095fe",
+    "Scripts/SprayerController.cs": "0c93a0e5753eb4141748b7e52a03095ac9760c888e796ccc2a0c6151b0227ac2",
+    "Config/item_modifiers.xml": "d64f8c5f495ec54cb40fde6b954c460c896a7e09280756e336a79feb73a5ccb3",
+    "Config/Localization.csv": "01a0f735f0659d529f6e9e14f45bd29c7216f1b590283fc7444725ce2cb4979f",
+    "UIAtlases/ItemIconAtlas/modDroneRadiationSprayer.png": "b8c0584ab1d4c6a8e95eefe3a4ced67c1ac2eb2f08bb38a90ff9c94676e8c756"
+  }
+}

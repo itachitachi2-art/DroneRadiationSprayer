@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <Name value="DroneRadiationSprayer" />
+  <DisplayName value="Drone Radiation Sprayer (Development Candidate)" />
+  <Description value="Standalone drone attachment: vanilla radiation regeneration inhibition within 25 metres; no consumables." />
+  <Author value="Itachi &amp; Ai" />
+  <Version value="0.1.0.1" />
+  <Website value="" />
+  <SkipWithAntiCheat value="true" />
+</xml>

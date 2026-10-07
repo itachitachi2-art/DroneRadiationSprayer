@@ -1,0 +1,6 @@
+*.csc.rsp
+*.pdb
+*.mdb
+References/
+verification/
+__pycache__/

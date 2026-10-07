@@ -1,0 +1,17 @@
+{
+  "version": "0.1.0.1-display-fix1",
+  "archive": "dist/DroneRadiationSprayer-0.1.0.1-display-fix1-update.zip",
+  "zip_sha256": "6d11e7b1f825013ccd6bde198b3d6997470dbdeffe72d4fed0e882151776c4f1",
+  "shipping_dll_sha256": "4d2da710330e7d2c3fc7784127713a2f5da9da4367df26297e4caa0f02a55f9f",
+  "installation": "Built Mods/<installed-mod-folder>/ overlay; no user build or folder deletion; preserve existing settings/media/icons",
+  "files": {
+    "DroneRadiationSprayer.dll": "4d2da710330e7d2c3fc7784127713a2f5da9da4367df26297e4caa0f02a55f9f",
+    "ModInfo.xml": "2ce9c78305a9270b70b43f77e582c5dcb73415c6c397f85c3e97670648135313",
+    "Config/item_modifiers.xml": "d64f8c5f495ec54cb40fde6b954c460c896a7e09280756e336a79feb73a5ccb3",
+    "Config/Localization.csv": "01a0f735f0659d529f6e9e14f45bd29c7216f1b590283fc7444725ce2cb4979f",
+    "UIAtlases/ItemIconAtlas/modDroneRadiationSprayer.png": "b8c0584ab1d4c6a8e95eefe3a4ced67c1ac2eb2f08bb38a90ff9c94676e8c756"
+  },
+  "game_reference_binaries_included": false,
+  "game_executed_this_session": false,
+  "roof_repair_in_game_verified": null
+}

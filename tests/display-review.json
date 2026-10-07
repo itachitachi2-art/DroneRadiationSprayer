@@ -1,0 +1,12 @@
+{
+  "independent_static_review": "PASS",
+  "fresh_original_zip_compared": true,
+  "dll_and_both_csharp_files_byte_identical": true,
+  "config_change_scope": [
+    "Localization.txt replaced by Localization.csv",
+    "CustomIcon points to own sprite"
+  ],
+  "english_and_japanese_rows_verified": true,
+  "actual_160px_icon_visually_reviewed": true,
+  "game_executed": false
+}
