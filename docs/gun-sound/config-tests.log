@@ -1,0 +1,22 @@
+PASS: Exactly one additive XML patch
+PASS: Native modifier append target
+PASS: Original drone plus 24 sound attachments
+PASS: No vanilla item-name collision
+PASS: Removable drone-only attachment
+PASS: Unique modifier category
+PASS: Native modifier master inheritance
+PASS: Own runtime icon exists and matches CustomIcon
+PASS: Creative candidate, no quality variants
+PASS: No passive-stat or weapon/AI XML changes
+PASS: No global buff/entity/item or unapproved acquisition patches
+PASS: Actual vanilla inhibitor duration is 15 seconds
+PASS: Native inhibitor replaces, with no damage/AI effect group
+PASS: Native regeneration explicitly checks the chosen inhibitor
+PASS: Localization CSV is well formed
+PASS: Item and description localization keys match
+PASS: English and Japanese localization present
+PASS: Explicit native AddBuff arguments avoid shared duration override
+PASS: No direct health, buff duration, damage or target mutation
+PASS: Only drone update is patched
+PASS: Candidate assembly and ModInfo versions agree
+PASS: 21 config/source contract checks

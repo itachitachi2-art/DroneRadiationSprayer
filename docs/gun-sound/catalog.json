@@ -1,0 +1,410 @@
+[
+  {
+    "id": "modDroneGunSoundHandgunT0PipePistol",
+    "source_item": "gunHandgunT0PipePistol",
+    "sound": "pipe_pistol_fire",
+    "end": "",
+    "english": "Pipe Pistol",
+    "japanese": "パイプピストル",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "62",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.75",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundHandgunT1Pistol",
+    "source_item": "gunHandgunT1Pistol",
+    "sound": "Pistol_Fire",
+    "end": "",
+    "english": "Pistol",
+    "japanese": "ピストル",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "52",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.65",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundHandgunT3SMG5",
+    "source_item": "gunHandgunT3SMG5",
+    "sound": "smg_fire",
+    "end": "smg_fire_end",
+    "english": "SMG-5",
+    "japanese": "SMG-5",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "54",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.65",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundHandgunT2Magnum44",
+    "source_item": "gunHandgunT2Magnum44",
+    "sound": "44magnum_fire",
+    "end": "",
+    "english": ".44 Magnum",
+    "japanese": ".44マグナム",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "62",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.75",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundHandgunT3DesertVulture",
+    "source_item": "gunHandgunT3DesertVulture",
+    "sound": "desertvulture_fire",
+    "end": "",
+    "english": ".44 Desert Vulture",
+    "japanese": ".44 デザートヴァルチャー",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "52",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.65",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundShotgunT0PipeShotgun",
+    "source_item": "gunShotgunT0PipeShotgun",
+    "sound": "pipe_shotgun_fire",
+    "end": "",
+    "english": "Pipe Shotgun",
+    "japanese": "パイプショットガン",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "62",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.75",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundShotgunT1DoubleBarrel",
+    "source_item": "gunShotgunT1DoubleBarrel",
+    "sound": "shotgundb_fire",
+    "end": "",
+    "english": "Double Barrel Shotgun",
+    "japanese": "2連ショットガン",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "81",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "1.0",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundShotgunT2PumpShotgun",
+    "source_item": "gunShotgunT2PumpShotgun",
+    "sound": "pump_shotgun_fire",
+    "end": "",
+    "english": "Pump Shotgun",
+    "japanese": "ポンプアクション式ショットガン",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "81",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "1.0",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundShotgunT3AutoShotgun",
+    "source_item": "gunShotgunT3AutoShotgun",
+    "sound": "autoshotgun_fire",
+    "end": "",
+    "english": "Auto Shotgun",
+    "japanese": "オートショットガン",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "81",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "1.0",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundRifleT0PipeRifle",
+    "source_item": "gunRifleT0PipeRifle",
+    "sound": "pipe_rifle_fire",
+    "end": "",
+    "english": "Pipe Rifle",
+    "japanese": "パイプライフル",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "62",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.75",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundRifleT1HuntingRifle",
+    "source_item": "gunRifleT1HuntingRifle",
+    "sound": "sniperrifle_fire",
+    "end": "",
+    "english": "Hunting Rifle",
+    "japanese": "狩猟ライフル",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "108",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.9",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundRifleT2LeverActionRifle",
+    "source_item": "gunRifleT2LeverActionRifle",
+    "sound": "lever_action_rifle_fire",
+    "end": "",
+    "english": "Lever Action Rifle",
+    "japanese": "レバーアクションライフル",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "62",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.75",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundRifleT3SniperRifle",
+    "source_item": "gunRifleT3SniperRifle",
+    "sound": "sharpshooter_fire",
+    "end": "",
+    "english": "Sniper Rifle",
+    "japanese": "スナイパーライフル",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "108",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.9",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundMGT0PipeMachineGun",
+    "source_item": "gunMGT0PipeMachineGun",
+    "sound": "pipe_smg_fire",
+    "end": "ak47_fire_end",
+    "english": "Pipe Machine Gun",
+    "japanese": "パイプマシンガン",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "62",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.75",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundMGT1AK47",
+    "source_item": "gunMGT1AK47",
+    "sound": "ak47_fire",
+    "end": "ak47_fire_end",
+    "english": "KV-47 Machine Gun",
+    "japanese": "KV-47マシンガン",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "108",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.9",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundMGT2TacticalAR",
+    "source_item": "gunMGT2TacticalAR",
+    "sound": "tacticalar_fire",
+    "end": "",
+    "english": "Tactical Assault Rifle",
+    "japanese": "タクティカルアサルトライフル",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "108",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.9",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundMGT3M60",
+    "source_item": "gunMGT3M60",
+    "sound": "m60_fire",
+    "end": "m60_fire_end",
+    "english": "M60 Machine Gun",
+    "japanese": "M60マシンガン",
+    "suppressed": false,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "54",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.9",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundSuppressedPistol",
+    "source_item": null,
+    "sound": "pistol_s_fire",
+    "end": "",
+    "english": "Pistol",
+    "japanese": "ピストル",
+    "suppressed": true,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "17",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.4",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundSuppressedSMG",
+    "source_item": null,
+    "sound": "smg_s_fire",
+    "end": "silencefiller",
+    "english": "SMG",
+    "japanese": "SMG",
+    "suppressed": true,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "43",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.4",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundSuppressedShotgun",
+    "source_item": null,
+    "sound": "pump_shotgun_s_fire",
+    "end": "",
+    "english": "Shotgun / .44 / Desert Vulture",
+    "japanese": "ショットガン／.44／デザートヴァルチャー",
+    "suppressed": true,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "38",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.8",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundSuppressedHuntingRifle",
+    "source_item": null,
+    "sound": "hunting_rifle_s_fire",
+    "end": "",
+    "english": "Hunting Rifle",
+    "japanese": "狩猟ライフル",
+    "suppressed": true,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "18",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.6",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundSuppressedSniperRifle",
+    "source_item": null,
+    "sound": "sniperrifle_s_fire",
+    "end": "",
+    "english": "Sniper / Lever-action Rifle",
+    "japanese": "スナイパー／レバーアクションライフル",
+    "suppressed": true,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "34",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.65",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundSuppressedAK47",
+    "source_item": null,
+    "sound": "ak47_s_fire",
+    "end": "silencefiller",
+    "english": "AK-47 / Tactical AR",
+    "japanese": "AK-47／タクティカルAR",
+    "suppressed": true,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "43",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.65",
+      "heat_map_time": "180"
+    }
+  },
+  {
+    "id": "modDroneGunSoundSuppressedM60",
+    "source_item": null,
+    "sound": "m60_s_fire",
+    "end": "silencefiller",
+    "english": "M60",
+    "japanese": "M60",
+    "suppressed": true,
+    "vanilla_noise": {
+      "ID": "0",
+      "noise": "47",
+      "time": "2",
+      "muffled_when_crouched": "0.8",
+      "heat_map_strength": "0.65",
+      "heat_map_time": "180"
+    }
+  }
+]

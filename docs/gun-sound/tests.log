@@ -1,0 +1,135 @@
+PASS: 24 gun sounds plus original drone
+PASS: Unique IDs
+PASS: 17 normal gun sound options
+PASS: 7 deduplicated suppressed clip-set options
+PASS: No native name collisions
+PASS: New category has no native exclusion collision
+PASS: Only additive modifier patch; no vanilla suppressor mutation
+PASS: modDroneGunSoundHandgunT0PipePistol: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundHandgunT0PipePistol: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundHandgunT0PipePistol: no direct stat bonuses/effects
+PASS: modDroneGunSoundHandgunT0PipePistol: sound-only property overrides
+PASS: modDroneGunSoundHandgunT0PipePistol: every nonempty sound resolves
+PASS: modDroneGunSoundHandgunT1Pistol: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundHandgunT1Pistol: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundHandgunT1Pistol: no direct stat bonuses/effects
+PASS: modDroneGunSoundHandgunT1Pistol: sound-only property overrides
+PASS: modDroneGunSoundHandgunT1Pistol: every nonempty sound resolves
+PASS: modDroneGunSoundHandgunT3SMG5: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundHandgunT3SMG5: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundHandgunT3SMG5: no direct stat bonuses/effects
+PASS: modDroneGunSoundHandgunT3SMG5: sound-only property overrides
+PASS: modDroneGunSoundHandgunT3SMG5: every nonempty sound resolves
+PASS: modDroneGunSoundHandgunT2Magnum44: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundHandgunT2Magnum44: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundHandgunT2Magnum44: no direct stat bonuses/effects
+PASS: modDroneGunSoundHandgunT2Magnum44: sound-only property overrides
+PASS: modDroneGunSoundHandgunT2Magnum44: every nonempty sound resolves
+PASS: modDroneGunSoundHandgunT3DesertVulture: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundHandgunT3DesertVulture: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundHandgunT3DesertVulture: no direct stat bonuses/effects
+PASS: modDroneGunSoundHandgunT3DesertVulture: sound-only property overrides
+PASS: modDroneGunSoundHandgunT3DesertVulture: every nonempty sound resolves
+PASS: modDroneGunSoundShotgunT0PipeShotgun: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundShotgunT0PipeShotgun: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundShotgunT0PipeShotgun: no direct stat bonuses/effects
+PASS: modDroneGunSoundShotgunT0PipeShotgun: sound-only property overrides
+PASS: modDroneGunSoundShotgunT0PipeShotgun: every nonempty sound resolves
+PASS: modDroneGunSoundShotgunT1DoubleBarrel: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundShotgunT1DoubleBarrel: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundShotgunT1DoubleBarrel: no direct stat bonuses/effects
+PASS: modDroneGunSoundShotgunT1DoubleBarrel: sound-only property overrides
+PASS: modDroneGunSoundShotgunT1DoubleBarrel: every nonempty sound resolves
+PASS: modDroneGunSoundShotgunT2PumpShotgun: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundShotgunT2PumpShotgun: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundShotgunT2PumpShotgun: no direct stat bonuses/effects
+PASS: modDroneGunSoundShotgunT2PumpShotgun: sound-only property overrides
+PASS: modDroneGunSoundShotgunT2PumpShotgun: every nonempty sound resolves
+PASS: modDroneGunSoundShotgunT3AutoShotgun: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundShotgunT3AutoShotgun: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundShotgunT3AutoShotgun: no direct stat bonuses/effects
+PASS: modDroneGunSoundShotgunT3AutoShotgun: sound-only property overrides
+PASS: modDroneGunSoundShotgunT3AutoShotgun: every nonempty sound resolves
+PASS: modDroneGunSoundRifleT0PipeRifle: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundRifleT0PipeRifle: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundRifleT0PipeRifle: no direct stat bonuses/effects
+PASS: modDroneGunSoundRifleT0PipeRifle: sound-only property overrides
+PASS: modDroneGunSoundRifleT0PipeRifle: every nonempty sound resolves
+PASS: modDroneGunSoundRifleT1HuntingRifle: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundRifleT1HuntingRifle: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundRifleT1HuntingRifle: no direct stat bonuses/effects
+PASS: modDroneGunSoundRifleT1HuntingRifle: sound-only property overrides
+PASS: modDroneGunSoundRifleT1HuntingRifle: every nonempty sound resolves
+PASS: modDroneGunSoundRifleT2LeverActionRifle: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundRifleT2LeverActionRifle: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundRifleT2LeverActionRifle: no direct stat bonuses/effects
+PASS: modDroneGunSoundRifleT2LeverActionRifle: sound-only property overrides
+PASS: modDroneGunSoundRifleT2LeverActionRifle: every nonempty sound resolves
+PASS: modDroneGunSoundRifleT3SniperRifle: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundRifleT3SniperRifle: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundRifleT3SniperRifle: no direct stat bonuses/effects
+PASS: modDroneGunSoundRifleT3SniperRifle: sound-only property overrides
+PASS: modDroneGunSoundRifleT3SniperRifle: every nonempty sound resolves
+PASS: modDroneGunSoundMGT0PipeMachineGun: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundMGT0PipeMachineGun: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundMGT0PipeMachineGun: no direct stat bonuses/effects
+PASS: modDroneGunSoundMGT0PipeMachineGun: sound-only property overrides
+PASS: modDroneGunSoundMGT0PipeMachineGun: every nonempty sound resolves
+PASS: modDroneGunSoundMGT1AK47: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundMGT1AK47: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundMGT1AK47: no direct stat bonuses/effects
+PASS: modDroneGunSoundMGT1AK47: sound-only property overrides
+PASS: modDroneGunSoundMGT1AK47: every nonempty sound resolves
+PASS: modDroneGunSoundMGT2TacticalAR: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundMGT2TacticalAR: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundMGT2TacticalAR: no direct stat bonuses/effects
+PASS: modDroneGunSoundMGT2TacticalAR: sound-only property overrides
+PASS: modDroneGunSoundMGT2TacticalAR: every nonempty sound resolves
+PASS: modDroneGunSoundMGT3M60: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundMGT3M60: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundMGT3M60: no direct stat bonuses/effects
+PASS: modDroneGunSoundMGT3M60: sound-only property overrides
+PASS: modDroneGunSoundMGT3M60: every nonempty sound resolves
+PASS: modDroneGunSoundSuppressedPistol: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundSuppressedPistol: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundSuppressedPistol: no direct stat bonuses/effects
+PASS: modDroneGunSoundSuppressedPistol: sound-only property overrides
+PASS: modDroneGunSoundSuppressedPistol: every nonempty sound resolves
+PASS: modDroneGunSoundSuppressedSMG: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundSuppressedSMG: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundSuppressedSMG: no direct stat bonuses/effects
+PASS: modDroneGunSoundSuppressedSMG: sound-only property overrides
+PASS: modDroneGunSoundSuppressedSMG: every nonempty sound resolves
+PASS: modDroneGunSoundSuppressedShotgun: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundSuppressedShotgun: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundSuppressedShotgun: no direct stat bonuses/effects
+PASS: modDroneGunSoundSuppressedShotgun: sound-only property overrides
+PASS: modDroneGunSoundSuppressedShotgun: every nonempty sound resolves
+PASS: modDroneGunSoundSuppressedHuntingRifle: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundSuppressedHuntingRifle: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundSuppressedHuntingRifle: no direct stat bonuses/effects
+PASS: modDroneGunSoundSuppressedHuntingRifle: sound-only property overrides
+PASS: modDroneGunSoundSuppressedHuntingRifle: every nonempty sound resolves
+PASS: modDroneGunSoundSuppressedSniperRifle: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundSuppressedSniperRifle: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundSuppressedSniperRifle: no direct stat bonuses/effects
+PASS: modDroneGunSoundSuppressedSniperRifle: sound-only property overrides
+PASS: modDroneGunSoundSuppressedSniperRifle: every nonempty sound resolves
+PASS: modDroneGunSoundSuppressedAK47: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundSuppressedAK47: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundSuppressedAK47: no direct stat bonuses/effects
+PASS: modDroneGunSoundSuppressedAK47: sound-only property overrides
+PASS: modDroneGunSoundSuppressedAK47: every nonempty sound resolves
+PASS: modDroneGunSoundSuppressedM60: gun-only, same family, normal noMods guard
+PASS: modDroneGunSoundSuppressedM60: suppressor icon, no acquisition changes
+PASS: modDroneGunSoundSuppressedM60: no direct stat bonuses/effects
+PASS: modDroneGunSoundSuppressedM60: sound-only property overrides
+PASS: modDroneGunSoundSuppressedM60: every nonempty sound resolves
+PASS: 24 distinct primary clip sets
+PASS: Covers all 17 native non-admin gun-tagged weapons
+PASS: All localization rows align to native 20 columns
+PASS: 50 unique localized name/description keys
+PASS: Localization matches every part
+PASS: Every part has English and Japanese text
+PASS: Adopted user-tested DLL unchanged
+PASS: 134 static checks

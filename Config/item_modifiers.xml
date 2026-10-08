@@ -9,5 +9,341 @@
       <property name="ShowQuality" value="false" />
       <property name="EconomicValue" value="0" />
     </item_modifier>
+    <item_modifier name="modDroneGunSoundHandgunT0PipePistol" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundHandgunT0PipePistolDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="pipe_pistol_fire" />
+        <property name="Sound_loop" value="pipe_pistol_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundHandgunT1Pistol" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundHandgunT1PistolDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="Pistol_Fire" />
+        <property name="Sound_loop" value="Pistol_Fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundHandgunT3SMG5" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundHandgunT3SMG5Desc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="smg_fire" />
+        <property name="Sound_loop" value="smg_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="smg_fire_end" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundHandgunT2Magnum44" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundHandgunT2Magnum44Desc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="44magnum_fire" />
+        <property name="Sound_loop" value="44magnum_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundHandgunT3DesertVulture" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundHandgunT3DesertVultureDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="desertvulture_fire" />
+        <property name="Sound_loop" value="desertvulture_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundShotgunT0PipeShotgun" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundShotgunT0PipeShotgunDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="pipe_shotgun_fire" />
+        <property name="Sound_loop" value="pipe_shotgun_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundShotgunT1DoubleBarrel" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundShotgunT1DoubleBarrelDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="shotgundb_fire" />
+        <property name="Sound_loop" value="shotgundb_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundShotgunT2PumpShotgun" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundShotgunT2PumpShotgunDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="pump_shotgun_fire" />
+        <property name="Sound_loop" value="pump_shotgun_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundShotgunT3AutoShotgun" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundShotgunT3AutoShotgunDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="autoshotgun_fire" />
+        <property name="Sound_loop" value="autoshotgun_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundRifleT0PipeRifle" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundRifleT0PipeRifleDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="pipe_rifle_fire" />
+        <property name="Sound_loop" value="pipe_rifle_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundRifleT1HuntingRifle" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundRifleT1HuntingRifleDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="sniperrifle_fire" />
+        <property name="Sound_loop" value="sniperrifle_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundRifleT2LeverActionRifle" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundRifleT2LeverActionRifleDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="lever_action_rifle_fire" />
+        <property name="Sound_loop" value="lever_action_rifle_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundRifleT3SniperRifle" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundRifleT3SniperRifleDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="sharpshooter_fire" />
+        <property name="Sound_loop" value="sharpshooter_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundMGT0PipeMachineGun" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundMGT0PipeMachineGunDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="pipe_smg_fire" />
+        <property name="Sound_loop" value="pipe_smg_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="ak47_fire_end" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundMGT1AK47" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundMGT1AK47Desc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="ak47_fire" />
+        <property name="Sound_loop" value="ak47_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="ak47_fire_end" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundMGT2TacticalAR" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundMGT2TacticalARDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="tacticalar_fire" />
+        <property name="Sound_loop" value="tacticalar_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundMGT3M60" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundMGT3M60Desc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="m60_fire" />
+        <property name="Sound_loop" value="m60_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="m60_fire_end" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundSuppressedPistol" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundSuppressedPistolDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="pistol_s_fire" />
+        <property name="Sound_loop" value="pistol_s_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundSuppressedSMG" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundSuppressedSMGDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="smg_s_fire" />
+        <property name="Sound_loop" value="smg_s_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="silencefiller" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundSuppressedShotgun" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundSuppressedShotgunDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="pump_shotgun_s_fire" />
+        <property name="Sound_loop" value="pump_shotgun_s_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundSuppressedHuntingRifle" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundSuppressedHuntingRifleDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="hunting_rifle_s_fire" />
+        <property name="Sound_loop" value="hunting_rifle_s_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundSuppressedSniperRifle" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundSuppressedSniperRifleDesc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="sniperrifle_s_fire" />
+        <property name="Sound_loop" value="sniperrifle_s_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundSuppressedAK47" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundSuppressedAK47Desc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="ak47_s_fire" />
+        <property name="Sound_loop" value="ak47_s_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="silencefiller" />
+      </item_property_overrides>
+    </item_modifier>
+    <item_modifier name="modDroneGunSoundSuppressedM60" installable_tags="gun" modifier_tags="droneGunSound" blocked_tags="noMods" type="attachment">
+      <property name="Extends" value="modGeneralMaster" />
+      <property name="CustomIcon" value="modGunSoundSuppressorSilencer" />
+      <property name="DescriptionKey" value="modDroneGunSoundSuppressedM60Desc" />
+      <property name="CreativeMode" value="Player" />
+      <property name="ShowQuality" value="false" />
+      <property name="EconomicValue" value="0" />
+      <item_property_overrides name="*">
+        <property name="Sound_start" value="m60_s_fire" />
+        <property name="Sound_loop" value="m60_s_fire" />
+        <property name="Sound_repeat" value="" />
+        <property name="Sound_end" value="silencefiller" />
+      </item_property_overrides>
+    </item_modifier>
   </append>
 </configs>

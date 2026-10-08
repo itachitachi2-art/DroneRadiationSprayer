@@ -1,0 +1,22 @@
+PASS: CSV filename matches v3.3 loader
+PASS: Obsolete TXT is absent
+PASS: Exact native 20-column header
+PASS: KeepLoaded metadata column present
+PASS: All rows have complete column alignment
+PASS: Original drone name and description keys retained
+PASS: English display name
+PASS: Japanese display name
+PASS: Both descriptions present
+PASS: english survives native-style column mapping
+PASS: japanese survives native-style column mapping
+PASS: Internal item identity preserved
+PASS: DescriptionKey preserved
+PASS: No unused LocalizationKey override
+PASS: CustomIcon matches own sprite name
+PASS: PNG RGBA 160x160
+PASS: Real transparency and opaque content
+PASS: Transparent padded corners
+PASS: Accepted core bytes unchanged: DroneRadiationSprayer.dll
+PASS: Accepted core bytes unchanged: Scripts/DroneRadiationSprayerMod.cs
+PASS: Accepted core bytes unchanged: Scripts/SprayerController.cs
+PASS: 21 display-only checks

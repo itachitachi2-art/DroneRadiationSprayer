@@ -1,3 +1,7 @@
+# Current gun-sound candidate
+
+See GUN-SOUND-1.md and docs/gun-sound/validation.json for current checks and limits. The records below describe the earlier drone implementation, not runtime validation of the new sounds.
+
 # 0.1.0.1 candidate validation
 
 Date: 2026-10-07 UTC. Target: the user's supplied 7 Days to Die v3.3 references.

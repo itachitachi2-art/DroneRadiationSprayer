@@ -1,0 +1,20 @@
+{
+  "revision": "0.1.0.1-gun-sound1-candidate",
+  "base_commit": "175e35f1dc62d054bd1f99935869b7e38a2c2c97",
+  "dll_rebuilt": false,
+  "runtime_game_tested": false,
+  "runtime_zip": {
+    "name": "DroneRadiationSprayer-0.1.0.1-gun-sound1-candidate-update.zip",
+    "sha256": "4d90d337b640fe9e8f5a55a46813265b2b122bed44223a4336f07ad3786448d1"
+  },
+  "runtime_files": {
+    "Mods/DroneRadiationSprayer/Config/Localization.csv": "543d20cd9967128a9742d618698c4354a27a9572dcbcbe0b8802d877cc887964",
+    "Mods/DroneRadiationSprayer/Config/item_modifiers.xml": "6117ad839427b9cf7183bda8e790cf2e17ddbb42c4d946aa367613b22a64d931",
+    "Mods/DroneRadiationSprayer/DroneRadiationSprayer.dll": "4d2da710330e7d2c3fc7784127713a2f5da9da4367df26297e4caa0f02a55f9f",
+    "Mods/DroneRadiationSprayer/GUN-SOUND-1.md": "37e9244819e45c8eea26da10f76944c720a8e872aa42fe17fc03d0a42210f691",
+    "Mods/DroneRadiationSprayer/ModInfo.xml": "2ce9c78305a9270b70b43f77e582c5dcb73415c6c397f85c3e97670648135313",
+    "Mods/DroneRadiationSprayer/README.md": "1eb1184c151e6d38c7af0fd0251d7a1f4962e1565104064bb506d067c46d849b",
+    "Mods/DroneRadiationSprayer/TEST-JA.txt": "0e44359fde7d227e6fd987aecdcd83057ed86b8aae8bef7c96972d28a74836bb",
+    "Mods/DroneRadiationSprayer/UIAtlases/ItemIconAtlas/modDroneRadiationSprayer.png": "b8c0584ab1d4c6a8e95eefe3a4ced67c1ac2eb2f08bb38a90ff9c94676e8c756"
+  }
+}

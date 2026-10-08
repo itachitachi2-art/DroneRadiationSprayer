@@ -33,7 +33,7 @@ check(lines[0] == native_header, 'Exact native 20-column header')
 check(len(lines[0]) == 20 and 'KeepLoaded' in lines[0], 'KeepLoaded metadata column present')
 check(all(len(row) == len(lines[0]) for row in lines), 'All rows have complete column alignment')
 rows = {row[0]: dict(zip(lines[0], row)) for row in lines[1:]}
-check(set(rows) == {'modDroneRadiationSprayer', 'modDroneRadiationSprayerDesc'}, 'Exact name and description keys')
+check({'modDroneRadiationSprayer', 'modDroneRadiationSprayerDesc'}.issubset(rows), 'Original drone name and description keys retained')
 check(rows['modDroneRadiationSprayer']['english'] == 'Drone Radiation Sprayer', 'English display name')
 check(rows['modDroneRadiationSprayer']['japanese'] == 'ドローン用放射能除去散布装置', 'Japanese display name')
 check(all(rows['modDroneRadiationSprayerDesc'][language] for language in ('english', 'japanese')), 'Both descriptions present')
@@ -63,7 +63,7 @@ expected = {
 for path, sha in expected.items():
     check(digest(root / path) == sha, 'Accepted core bytes unchanged: ' + path)
 report = {
-    'revision': '0.1.0.1-display-fix1', 'core_dll_version': '0.1.0.1',
+    'revision': '0.1.0.1-gun-sound1-candidate', 'core_dll_version': '0.1.0.1',
     'game_executed': False, 'recompiled': False, 'core_tests_rerun': False,
     'checks': checks, 'passed': len(checks), 'failed': 0,
     'sha256': {path: digest(root / path) for path in list(expected) + [
